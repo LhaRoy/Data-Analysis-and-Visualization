@@ -1,5 +1,5 @@
 # Data-Analysis-and-Visualization
-Data analysis and Visualization
+Data Analysis and Visualization
 
 
 The code here is the code that I worked on to teach myself Data Analysis in Python,
